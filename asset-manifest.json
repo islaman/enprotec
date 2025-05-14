@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/enprotec/static/css/main.475bc3e4.css",
-    "main.js": "/enprotec/static/js/main.84dcb28c.js",
+    "main.css": "/enprotec/static/css/main.ea4dd97a.css",
+    "main.js": "/enprotec/static/js/main.91dda2cd.js",
     "static/js/453.86160ba3.chunk.js": "/enprotec/static/js/453.86160ba3.chunk.js",
     "static/media/28.png": "/enprotec/static/media/28.549c6e3c453b0d80b0b8.png",
     "static/media/31.png": "/enprotec/static/media/31.546d9c783942f02c430a.png",
@@ -27,12 +27,12 @@
     "static/media/4.jpeg": "/enprotec/static/media/4.77153bf31667496f2e7e.jpeg",
     "static/media/30.jpg": "/enprotec/static/media/30.1347615269a87c059c05.jpg",
     "index.html": "/enprotec/index.html",
-    "main.475bc3e4.css.map": "/enprotec/static/css/main.475bc3e4.css.map",
-    "main.84dcb28c.js.map": "/enprotec/static/js/main.84dcb28c.js.map",
+    "main.ea4dd97a.css.map": "/enprotec/static/css/main.ea4dd97a.css.map",
+    "main.91dda2cd.js.map": "/enprotec/static/js/main.91dda2cd.js.map",
     "453.86160ba3.chunk.js.map": "/enprotec/static/js/453.86160ba3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.475bc3e4.css",
-    "static/js/main.84dcb28c.js"
+    "static/css/main.ea4dd97a.css",
+    "static/js/main.91dda2cd.js"
   ]
 }
